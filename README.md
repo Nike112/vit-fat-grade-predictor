@@ -4,7 +4,7 @@ Predict your **FAT (Final Assessment Test) marks** from your **CAT-1, CAT-2 and 
 
 > Probability & Statistics lab project · VIT Chennai
 
-**Live app:** _link added after deployment_
+**Live app:** https://nike112.github.io/vit-fat-grade-predictor/
 
 ![Predictor page](docs/screenshots/predictor.png)
 
@@ -123,7 +123,7 @@ The regression output is cross-checked against NumPy in [`analysis/verify_with_n
 **Prerequisites:** Node.js 20.19+ (or 22.12+) and npm.
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Nike112/vit-fat-grade-predictor.git
 cd vit-fat-grade-predictor
 npm install
 npm run dev          # open the printed http://localhost:5173 URL
